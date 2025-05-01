@@ -1,3 +1,3 @@
 print("Hello for Git users!")
 print("updated !")
-print("pushed from a branch!😒")
+print("pushed from a branch!")
